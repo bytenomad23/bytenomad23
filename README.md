@@ -14,7 +14,7 @@ I'm a digital explorer navigating the vast world of software. This profile serve
 
 I'm currently charting my course through the following territories. My interests are always evolving as I discover new paths.
 
-* **Languages:** Python, Go, Rust, TypeScript
+* **Languages:** PHP, JavaScript, TypeScript, Go, Rust
 * **Architectures & Concepts:** Distributed Systems, Microservices, Cloud-Native Development
 * **Tools & Platforms:** Docker, Kubernetes, GCP, AWS
 * **Fields of Interest:** Machine Learning, Data Engineering, Decentralized Technologies
