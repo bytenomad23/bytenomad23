@@ -36,9 +36,9 @@ I'm focused on deepening my understanding of and contributing to projects in the
 This map shows the constellations I've visited recently.
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ByteNomad&show_icons=true&theme=dracula&include_all_commits=true&count_private=true" alt="ByteNomad's GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=ByteNomad23&show_icons=true&theme=dracula&include_all_commits=true&count_private=true" alt="ByteNomad's GitHub Stats" />
   <br/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ByteNomad&layout=compact&langs_count=8&theme=dracula" alt="ByteNomad's Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ByteNomad23&layout=compact&langs_count=8&theme=dracula" alt="ByteNomad's Top Languages" />
 </p>
 
 ---
